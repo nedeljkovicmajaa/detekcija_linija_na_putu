@@ -8,4 +8,4 @@ linije.m - code for line detection on the road (video processing)
 
 slika-pdf - kod za prebacivanje slike u pdf
 laser.pde - kod za laserski daljinometar   
-linije.m - kod za detekciju linija na putu
+linije.m - kod za detekciju linija na putu       
