@@ -3,7 +3,7 @@
 slika-pdf - code, image to pdf       
 laser.pde - code for lasser rangefinder      
 linije.m - code for line detection on the road (video processing)   
-cifar_code - code for cnn and saving into model        
+cifar_code - code for cnn and saving as model        
 cifar_model - model evaluation       
 
 - Srpski
