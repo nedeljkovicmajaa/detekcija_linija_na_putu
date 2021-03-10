@@ -3,7 +3,6 @@ tic
 reader = vision.VideoFileReader('original.mp4');
 viewer = vision.DeployableVideoPlayer;
  
- 
 while ~isDone(reader)
     z = step(reader);
     
@@ -35,8 +34,6 @@ while ~isDone(reader)
     [H, T , R] = hough( just_lines );
     P = houghpeaks(H,5,'threshold',ceil(0.3*max(H(:))));
     lines = houghlines(just_lines,T,R,P);
-    
-    
     
     max_len = 0;
     
