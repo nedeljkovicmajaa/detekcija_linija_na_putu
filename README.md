@@ -1,8 +1,8 @@
 - English
 
-slika-pdf - code, image to pdf
-laser.pde - code for lasser rangefinder   
-linije.m - code for line detection on the road (video processing)
+slika-pdf - code, image to pdf       
+laser.pde - code for lasser rangefinder      
+linije.m - code for line detection on the road (video processing)        
 
 - Srpski
 
