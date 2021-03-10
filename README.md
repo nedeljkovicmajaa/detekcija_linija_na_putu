@@ -7,5 +7,5 @@ linije.m - code for line detection on the road (video processing)
 - Srpski
 
 slika-pdf - kod za prebacivanje slike u pdf
-laser.pde - kod za laserski daljinometar   
+laser.pde - kod za laserski daljinometar          
 linije.m - kod za detekciju linija na putu       
