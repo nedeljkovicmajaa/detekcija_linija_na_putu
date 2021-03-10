@@ -1,5 +1,5 @@
 PImage destination;  
-PImage destination_erode;  
+PImage destination_erode; 
 
 import processing.video.*;
 int sumax, sumay, xkod, ykod;
